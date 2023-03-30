@@ -1,0 +1,3 @@
+f) * No se puede ver ya que esta en la branch Opcion_2
+* Despues del git merge las branchs se "acoplan"
+ 
